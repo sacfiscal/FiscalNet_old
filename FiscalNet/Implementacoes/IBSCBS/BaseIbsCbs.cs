@@ -3,7 +3,7 @@
 namespace FiscalNet.Implementacoes.IBSCBS
 {
     public class BaseIbsCbs(decimal valorProduto,
-        decimal valorServico = 1,
+        decimal valorServico = 0,
         decimal valorFrete = 0,
         decimal valorSeguro = 0,
         decimal despesasAcessorias = 0,
